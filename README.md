@@ -1,4 +1,6 @@
-# FiveM
-All of JackAttack612's FiveM Resources
+# 69-Mustang
+Single Car Pack
 
-# All Files are put in your resource folder and start/esure in your server.cfg.
+# Make sure you start/ensure the resource in your server.cfg. Example "Start 69-Mustang" or "Ensure 69-Mustang"
+
+# No exras no liveries
